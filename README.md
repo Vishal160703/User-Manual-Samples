@@ -1,2 +1,2 @@
 # User-Manual-Samples
-Sample of Alppication User Manual
+Sample of Application User Manual
